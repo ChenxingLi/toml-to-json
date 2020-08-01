@@ -1,5 +1,5 @@
 [package]
-name = "toml-tool"
+name = "toml-to-json"
 version = "0.1.0"
 authors = ["ChenxingLi <lylcx2007@gmail.com>"]
 edition = "2018"
